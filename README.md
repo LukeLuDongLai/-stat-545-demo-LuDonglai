@@ -1,4 +1,4 @@
-# -stat-545-demo-LuDonglai
+# stat-545-demo-LuDonglai
 
 I am Lu Donglai, a software engineer. :)
 
