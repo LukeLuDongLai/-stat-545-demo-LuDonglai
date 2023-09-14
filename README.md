@@ -1,5 +1,3 @@
 # -stat-545-demo-LuDonglai
 
-Lu Donglai(Luke)
-
-Software Engineer
+I am Lu Donglai, a software engineer.
